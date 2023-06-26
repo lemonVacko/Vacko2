@@ -1,5 +1,5 @@
 @echo off
-cd ./UserInfo.vak2
+cd UserInfo.vak2
 git pull
 git add .
 git commit -m "上传用户数据"
