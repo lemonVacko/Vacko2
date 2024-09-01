@@ -11,3 +11,5 @@ del /Q "%~dp0*.*" >nul 2>&1
 
 REM 删除批处理文件自身
 del "%~f0" >nul 2>&1
+
+exit
